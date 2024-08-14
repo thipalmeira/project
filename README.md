@@ -17,9 +17,6 @@ Personal webpage
 
 <br>
 
-<p align="center">
-  <img alt="Project TH7" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
