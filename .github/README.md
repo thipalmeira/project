@@ -12,11 +12,11 @@ Personal webpage
 </p>
 
 <p align="center">
-  <img alt="Project TH7 Dev" src=".github/preview1.jpg">
+  <img alt="Project TH7 Dev" src="./preview1.jpggithub/preview1.jpg">
 </p>
 
 <p align="center">
-  <img alt="Project TH7 Dev" src=".github/preview2.jpg">
+  <img alt="Project TH7 Dev" src="./preview2.jpggithub/preview2.jpg">
 </p>
 
 <br>
