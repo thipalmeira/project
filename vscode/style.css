@@ -161,6 +161,6 @@ font-size: 14px;
     }
 
     .light {
-        --bg-url: url(.assets/bg-desktop-light.jpg);
+        --bg-url: url(./assets/bg-desktop-light.jpg);
     }
 }
